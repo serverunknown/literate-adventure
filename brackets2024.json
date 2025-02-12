@@ -53,7 +53,7 @@
          },
          {
              "matchups": [
-                 {"match": 1, "team1_id": 35, "team2_id": 1, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []}
+                 {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []}
              ]
          }
      ]

@@ -1,0 +1,60 @@
+{
+    "teams": [
+{"id": 1, "name": "U.S.A.", "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"},
+{"id": 2, "name": "Canada", "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"},
+{"id": 3, "name": "Denmark", "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"},
+{"id": 4, "name": "U.K.", "flag": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg"},
+{"id": 5, "name": "Türkiye", "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"},
+{"id": 6, "name": "Romania", "flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"},
+{"id": 7, "name": "Norway", "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"},
+{"id": 8, "name": "Germany", "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"},
+{"id": 9, "name": "Ukraine", "flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"},
+{"id": 10, "name": "U.A.E.", "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg"},
+{"id": 11, "name": "France", "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"},
+{"id": 12, "name": "Spain", "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"},
+{"id": 13, "name": "Argentina", "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"},
+{"id": 14, "name": "Chile", "flag": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"},
+{"id": 15, "name": "Australia", "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"},
+{"id": 16, "name": "Croatia", "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"},
+{"id": 35, "name": "T.B.D", "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Checkerboard_Pattern_8x6.svg"}
+],
+
+     "results": [
+         {
+             "matchups": [
+             {"match": 1, "team1_id": 15, "team2_id": 16, "time1": "0:00.00", "time2": "Finished", "winner_id": 0, "finished_id": [16]},
+             {"match": 2, "team1_id": 13, "team2_id": 14, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []},
+             {"match": 3, "team1_id": 11, "team2_id": 12, "time1": "0:00.00", "time2": "Finished", "winner_id": 0, "finished_id": [12]},
+             {"match": 4, "team1_id": 10, "team2_id": 9, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []}
+             ]
+         },
+         {
+             "matchups": [
+                 {"match": 1, "team1_id": 8, "team2_id": 7, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []},
+                 {"match": 2, "team1_id": 5, "team2_id": 6, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []},
+                 {"match": 3, "team1_id": 3, "team2_id": 4, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []},
+                 {"match": 4, "team1_id": 2, "team2_id": 1, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []}
+                 
+             ]
+         },
+         {
+             "matchups": [
+                {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []},
+                {"match": 2, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []},
+                {"match": 3, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []},
+                {"match": 4, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []}
+             ]
+         },
+         {
+             "matchups": [
+                {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []},
+                {"match": 2, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []}
+             ]
+         },
+         {
+             "matchups": [
+                 {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []}
+             ]
+         }
+     ]
+ }

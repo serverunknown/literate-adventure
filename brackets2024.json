@@ -25,7 +25,7 @@
              {"match": 1, "team1_id": 15, "team2_id": 16, "time1": "0:00.00", "time2": "Finished", "winner_id": 0, "finished_id": [16]},
              {"match": 2, "team1_id": 13, "team2_id": 14, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []},
              {"match": 3, "team1_id": 11, "team2_id": 12, "time1": "0:00.00", "time2": "Finished", "winner_id": 0, "finished_id": [12]},
-             {"match": 4, "team1_id": 10, "team2_id": 9, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []}
+             {"match": 4, "team1_id": 10, "team2_id": 9, "time1": "Finished", "time2": "0:00.00", "winner_id": 0, "finished_id": [10]}
              ]
          },
          {

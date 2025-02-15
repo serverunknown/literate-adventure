@@ -31,7 +31,7 @@
          {
              "matchups": [
                  {"match": 1, "team1_id": 8, "team2_id": 7, "time1": "Finished", "time2": "0:00.00", "winner_id": 0, "finished_id": [8]},
-                 {"match": 2, "team1_id": 5, "team2_id": 6, "time1": "0:00.00", "time2": "Finished", "winner_id": 0, "finished_id": [6]},
+                 {"match": 2, "team1_id": 5, "team2_id": 6, "time1": "4:13.36", "time2": "2:32.97", "winner_id": 6, "finished_id": []},
                  {"match": 3, "team1_id": 3, "team2_id": 4, "time1": "Finished", "time2": "0:00.00", "winner_id": 0, "finished_id": [3]},
                  {"match": 4, "team1_id": 2, "team2_id": 1, "time1": "0:00.00", "time2": "0:00.00", "winner_id": 0, "finished_id": []}
                  

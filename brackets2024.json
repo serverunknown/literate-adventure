@@ -30,7 +30,7 @@
          },
          {
              "matchups": [
-                 {"match": 1, "team1_id": 8, "team2_id": 7, "time1": "2:30.95", "time2": "N/A", "winner_id": [8], "finished_id": [8]},
+                 {"match": 1, "team1_id": 8, "team2_id": 7, "time1": "2:30.95", "time2": "N/A", "winner_id": [8], "finished_id": []},
                  {"match": 2, "team1_id": 5, "team2_id": 6, "time1": "4:13.36", "time2": "2:32.97", "winner_id": [5,6], "finished_id": []},
                  {"match": 3, "team1_id": 3, "team2_id": 4, "time1": "2:59.21", "time2": "N/A", "winner_id": [3], "finished_id": []},
                  {"match": 4, "team1_id": 2, "team2_id": 1, "time1": "N/A", "time2": "T.B.D.", "winner_id": [0], "finished_id": [1]}

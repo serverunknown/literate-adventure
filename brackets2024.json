@@ -48,7 +48,7 @@
          {
              "matchups": [
                 {"match": 1, "team1_id": 16, "team2_id": 11, "time1": "179 stars", "time2": "184 stars", "winner_id": [11], "finished_id": []},
-                {"match": 2, "team1_id": 6, "team2_id": 12, "time1": "296 stars", "time2": "382", "winner_id": [0], "finished_id": [12]}
+                {"match": 2, "team1_id": 6, "team2_id": 12, "time1": "296 stars", "time2": "382 stars", "winner_id": [12], "finished_id": []}
              ]
          },
          {

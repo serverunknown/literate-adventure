@@ -22,19 +22,19 @@
      "results": [
          {
              "matchups": [
-             {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 2, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 3, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 4, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 5, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 6, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 7, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 8, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []}
+             {"match": 1, "team1_id": 1, "team2_id": 2, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
+             {"match": 2, "team1_id": 3, "team2_id": 4, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
+             {"match": 3, "team1_id": 5, "team2_id": 6, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
+             {"match": 4, "team1_id": 7, "team2_id": 8, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
+             {"match": 5, "team1_id": 9, "team2_id": 10, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
+             {"match": 6, "team1_id": 11, "team2_id": 12, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
+             {"match": 7, "team1_id": 13, "team2_id": 14, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
+             {"match": 8, "team1_id": 15, "team2_id": 16, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []}
              ]
          },
            {
              "matchups": [
-             {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
+             {"match": 1, "team1_id": 1, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
              {"match": 2, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
              {"match": 3, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
              {"match": 4, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},

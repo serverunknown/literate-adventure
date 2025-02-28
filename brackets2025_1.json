@@ -16,69 +16,66 @@
 {"id": 14, "name": "Ecuador", "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"},
 {"id": 15, "name": "Lithuania", "flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"},
 {"id": 16, "name": "Australia", "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"},
-{"id": 35, "name": "T.B.D", "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Checkerboard_Pattern_8x6.svg"}
+{"id": 35, "name": "T.B.D", "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Checkerboard_Pattern_8x6.svg"},
+{"id": 36, "name": "More countries yet to be decided. Check back later.", "flag": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sobsz_-_gender_question_mark.svg"}
+    ],
+    "results": {
+        "Qualifiers": [
+{"ranking": 1, "team_id": 1, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 2, "team_id": 2, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 3, "team_id": 3, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 4, "team_id": 4, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 5, "team_id": 5, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 6, "team_id": 6, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 7, "team_id": 7, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 8, "team_id": 8, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 9, "team_id": 9, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 10, "team_id": 10, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 11, "team_id": 11, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 12, "team_id": 12, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 13, "team_id": 13, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 14, "team_id": 14, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 15, "team_id": 15, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 16, "team_id": 16, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 17, "team_id": 36, "time1": "", "qualified": "undecided", "finished": false}
 ],
-
-     "results": [
-         {
-             "matchups": [
-             {"match": 1, "team1_id": 1, "team2_id": 2, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 2, "team1_id": 3, "team2_id": 4, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 3, "team1_id": 5, "team2_id": 6, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 4, "team1_id": 7, "team2_id": 8, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 5, "team1_id": 9, "team2_id": 10, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 6, "team1_id": 11, "team2_id": 12, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 7, "team1_id": 13, "team2_id": 14, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 8, "team1_id": 15, "team2_id": 16, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []}
-             ]
-         },
-           {
-             "matchups": [
-             {"match": 1, "team1_id": 1, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 2, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 3, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 4, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 5, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 6, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 7, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 8, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []}
-             ]
-         },
-                  {
-             "matchups": [
-             {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 2, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 3, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-             {"match": 4, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []}
-             ]
-         },
-         {
-             "matchups": [
-                 {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-                 {"match": 2, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-                 {"match": 3, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-                 {"match": 4, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []}
-                 
-             ]
-         },
-         {
-             "matchups": [
-                {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-                {"match": 2, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-                {"match": 3, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-                {"match": 4, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []}
-             ]
-         },
-         {
-             "matchups": [
-                {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []},
-                {"match": 2, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []}
-             ]
-         },
-         {
-             "matchups": [
-                 {"match": 1, "team1_id": 35, "team2_id": 35, "time1": "0:00.00", "time2": "0:00.00", "winner_id": [], "finished_id": []}
-             ]
-         }
-     ]
- }
+"Round of 16": [
+{"ranking": 1, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 2, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 3, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 4, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 5, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 6, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 7, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 8, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 9, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 10, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 11, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 12, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 13, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 14, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 15, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 16, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false}
+],
+"Quarter Finals": [
+{"ranking": 1, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 2, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 3, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 4, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 5, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 6, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 7, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 8, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false}
+],
+"Semi Finasl": [
+{"ranking": 1, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 2, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 3, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false},
+{"ranking": 4, "team_id": 35, "time1": "0:00:00", "qualified": "undecided", "finished": false}
+],
+        "Grand Final": [
+        {"ranking": 1, "team_id": 35, "time1": "0:00.00", "qualified": "undecided", "finished": false},
+            {"ranking": 1, "team_id": 35, "time1": "0:00.00", "qualified": "undecided", "finished": false}
+        ]
+    }
+}

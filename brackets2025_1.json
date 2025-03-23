@@ -1,9 +1,9 @@
 {
     "teams": [
 {"id": 1, "name": "U.S.A.", "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"},
-{"id": 2, "name": "Canada", "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"},
+{"id": 2, "name": "Canada", "flag": "https://www.shutterstock.com/image-vector/flag-canada-icon-standard-color-600nw-2306433191.jpg"},
 {"id": 3, "name": "Denmark", "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"},
-{"id": 4, "name": "Kuwait", "flag": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Kuwait_%283-2%29.svg"},
+{"id": 4, "name": "Kuwait", "flag": "https://media.istockphoto.com/id/1350074658/vector/kuwait-square-country-flag-button-icon.jpg?s=612x612&w=0&k=20&c=hoNRwnUgqgiR1lQpT6aMUFcTNFHFlc54UU8_JOPyH90="},
 {"id": 5, "name": "Türkiye", "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"},
 {"id": 6, "name": "Romania", "flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"},
 {"id": 7, "name": "Norway", "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"},

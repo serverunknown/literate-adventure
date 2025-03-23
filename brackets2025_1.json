@@ -48,11 +48,11 @@
 {"ranking": 7, "team_id": 7, "time1": "0:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 8, "team_id": 8, "time1": "0:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 9, "team_id": 9, "time1": "0:00.00", "qualified": "undecided", "finished": false},
-{"ranking": 10, "team_id": 10, "time1": "0:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 10, "team_id": 10, "time1": "Finished", "qualified": "undecided", "finished": true},
 {"ranking": 11, "team_id": 11, "time1": "Finished", "qualified": "undecided", "finished": true},
 {"ranking": 12, "team_id": 12, "time1": "0:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 13, "team_id": 13, "time1": "0:00.00", "qualified": "undecided", "finished": false},
-{"ranking": 14, "team_id": 14, "time1": "0:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 14, "team_id": 14, "time1": "Withdrawn", "qualified": "false", "finished": false},
 {"ranking": 15, "team_id": 15, "time1": "0:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 16, "team_id": 16, "time1": "0:00.00", "qualified": "undecided", "finished": false}
 ],

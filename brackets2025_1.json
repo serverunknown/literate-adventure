@@ -39,11 +39,11 @@
 {"ranking": 16, "team_id": 16, "time1": "AQ", "qualified": "true", "finished": false}
 ],
 "Round of 16": [
-{"ranking": 1, "team_id": 10, "time1": "1st - 1:32.40", "qualified": "undecided", "finished": false},
-{"ranking": 2, "team_id": 3, "time1": "2nd - 2:50.80", "qualified": "undecided", "finished": false},
-{"ranking": 3, "team_id": 6, "time1": "3rd - 2:51.90", "qualified": "undecided", "finished": false},
-{"ranking": 4, "team_id": 4, "time1": "4th - 3:00.78", "qualified": "undecided", "finished": false},
-{"ranking": 5, "team_id": 11, "time1": "5th - 3:31.73", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 10, "time1": "1st - 1:32.40", "qualified": "true", "finished": false},
+{"ranking": 2, "team_id": 3, "time1": "2nd - 2:50.80", "qualified": "true", "finished": false},
+{"ranking": 3, "team_id": 6, "time1": "3rd - 2:51.90", "qualified": "true", "finished": false},
+{"ranking": 4, "team_id": 4, "time1": "4th - 3:00.78", "qualified": "true", "finished": false},
+{"ranking": 5, "team_id": 11, "time1": "5th - 3:31.73", "qualified": "true", "finished": false},
 {"ranking": 6, "team_id": 1, "time1": "No Record", "qualified": "false", "finished": false},
 {"ranking": 7, "team_id": 2, "time1": "No Record", "qualified": "false", "finished": false},
 {"ranking": 8, "team_id": 5, "time1": "No Record", "qualified": "false", "finished": false},

@@ -28,14 +28,14 @@
 {"ranking": 6, "team_id": 12, "time1": "5th - 3:26.09", "qualified": "true", "finished": false},
 {"ranking": 7, "team_id": 9, "time1": "6th - 3:31.35", "qualified": "true", "finished": false},
 {"ranking": 5, "team_id": 11, "time1": "7th - 3:31.73", "qualified": "true", "finished": false},
-{"ranking": 8, "team_id": 13, "time1": "Placement T.B.A", "qualified": "standby", "finished": false},
 {"ranking": 9, "team_id": 7, "time1": "No Record", "qualified": "false", "finished": false},
 {"ranking": 10, "team_id": 8, "time1": "No Record", "qualified": "false", "finished": false},
 {"ranking": 11, "team_id": 1, "time1": "No Record", "qualified": "false", "finished": false},
 {"ranking": 12, "team_id": 2, "time1": "No Record", "qualified": "false", "finished": false},
 {"ranking": 13, "team_id": 5, "time1": "No Record", "qualified": "false", "finished": false},
 {"ranking": 14, "team_id": 16, "time1": "No Record", "qualified": "false", "finished": false},
-{"ranking": 15, "team_id": 15, "time1": "No Record", "qualified": "false", "finished": false},
+{"ranking": 15, "team_id": 15, "time1": "No Record", "qualified": "false", "finished": false}
+{"ranking": 8, "team_id": 13, "time1": "Withdrawn", "qualified": "false", "finished": false},,
 {"ranking": 16, "team_id": 14, "time1": "Withdrawn", "qualified": "false", "finished": false}
 ],
 "Quarter Finals": [
@@ -46,7 +46,6 @@
 {"ranking": 5, "team_id": 11, "time1": "0:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 6, "team_id": 12, "time1": "0:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 7, "team_id": 9, "time1": "0:00.00", "qualified": "undecided", "finished": false},
-{"ranking": 8, "team_id": 35, "time1": "0:00.00", "qualified": "undecided", "finished": false}
 ],
 "Semi Finals": [
 {"ranking": 1, "team_id": 35, "time1": "0 Stars", "qualified": "undecided", "finished": false},

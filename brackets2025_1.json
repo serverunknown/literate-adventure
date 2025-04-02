@@ -40,13 +40,13 @@
 {"ranking": 16, "team_id": 14, "time1": "Withdrawn", "qualified": "false", "finished": false}
 ],
 "Quarter Finals": [
-{"ranking": 2, "team_id": 3, "time1": "Finished", "qualified": "false", "finished": true},
-{"ranking": 2, "team_id": 6, "time1": "Finished", "qualified": "false", "finished": true},
-{"ranking": 1, "team_id": 10, "time1": "0:00.00", "qualified": "false", "finished": false},
-{"ranking": 4, "team_id": 4, "time1": "0:00.00", "qualified": "false", "finished": false},
-{"ranking": 6, "team_id": 12, "time1": "Finished", "qualified": "false", "finished": true},
-{"ranking": 7, "team_id": 9, "time1": "0:00.00", "qualified": "false", "finished": false},
-{"ranking": 5, "team_id": 11, "time1": "Withdrawn", "qualified": "false", "finished": false}
+{"ranking": 2, "team_id": 3, "time1": "Finished", "qualified": "undecided", "finished": true},
+{"ranking": 2, "team_id": 6, "time1": "Finished", "qualified": "undecided", "finished": true},
+{"ranking": 1, "team_id": 10, "time1": "0:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 4, "team_id": 4, "time1": "0:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 6, "team_id": 12, "time1": "Finished", "qualified": "undecided", "finished": true},
+{"ranking": 7, "team_id": 9, "time1": "0:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 5, "team_id": 11, "time1": "Finished", "qualified": "undecided", "finished": true}
 ],
 "Semi Finals": [
 {"ranking": 1, "team_id": 35, "time1": "0 stars", "qualified": "undecided", "finished": false},

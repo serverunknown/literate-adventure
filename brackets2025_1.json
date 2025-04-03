@@ -49,10 +49,10 @@
 {"ranking": 7, "team_id": 9, "time1": "Withdrawn", "qualified": "false", "finished": false}
 ],
 "Semi Finals": [
-{"ranking": 1, "team_id": 35, "time1": "0 stars", "qualified": "undecided", "finished": false},
-{"ranking": 1, "team_id": 35, "time1": "0 stars", "qualified": "undecided", "finished": false},
-{"ranking": 1, "team_id": 35, "time1": "0 stars", "qualified": "undecided", "finished": false},
-{"ranking": 1, "team_id": 35, "time1": "0 stars", "qualified": "undecided", "finished": false}
+{"ranking": 1, "team_id": 12, "time1": "0 stars", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 3, "time1": "0 stars", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 4, "time1": "0 stars", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 6, "time1": "0 stars", "qualified": "undecided", "finished": false}
 ],
         "Grand Final": [
         {"ranking": 1, "team_id": 35, "time1": "0:00.00", "qualified": "undecided", "finished": false},

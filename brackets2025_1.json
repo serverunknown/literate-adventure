@@ -55,8 +55,8 @@
 {"ranking": 4, "team_id": 4, "time1": "4th - 56 stars", "qualified": "false", "finished": false}
 ],
         "Grand Final": [
-        {"ranking": 1, "team_id": 12, "time1": "0:00.00", "qualified": "undecided", "finished": false},
-            {"ranking": 1, "team_id": 6, "time1": "0:00.00", "qualified": "undecided", "finished": false}
+        {"ranking": 1, "team_id": 12, "time1": "1st - 11:06.02", "qualified": "true", "finished": false},
+            {"ranking": 1, "team_id": 6, "time1": "2nd - 11:32.67", "qualified": "false", "finished": false}
         ]
     }
 }

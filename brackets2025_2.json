@@ -1,7 +1,6 @@
 {
     "teams": [
 {"id": 1, "name": "Denmark", "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"},
-{"id": 2, "name": "Kuwait", "flag": "https://media.istockphoto.com/id/1350074658/vector/kuwait-square-country-flag-button-icon.jpg?s=612x612&w=0&k=20&c=hoNRwnUgqgiR1lQpT6aMUFcTNFHFlc54UU8_JOPyH90="},
 {"id": 3, "name": "Romania", "flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"},
 {"id": 4, "name": "Germany", "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"},
 {"id": 5, "name": "Czechia", "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"},
@@ -19,9 +18,7 @@
     ],
     "results": {
 "Qualifiers": [
-{"ranking": 1, "team_id": 8, "time1": "00:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 1, "team_id": 1, "time1": "00:00.00", "qualified": "undecided", "finished": false},
-{"ranking": 1, "team_id": 2, "time1": "00:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 1, "team_id": 3, "time1": "00:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 1, "team_id": 4, "time1": "00:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 1, "team_id": 5, "time1": "00:00.00", "qualified": "undecided", "finished": false},

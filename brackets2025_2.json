@@ -1,6 +1,7 @@
 {
     "teams": [
 {"id": 1, "name": "Denmark", "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"},
+{"id": 2, "name": "Canada", "flag": "https://www.shutterstock.com/image-vector/flag-canada-icon-standard-color-600nw-2306433191.jpg"},
 {"id": 3, "name": "Romania", "flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"},
 {"id": 4, "name": "Germany", "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"},
 {"id": 5, "name": "Czechia", "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"},

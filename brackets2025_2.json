@@ -30,6 +30,28 @@
 {"ranking": 1, "team_id": 12, "time1": "00:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 1, "team_id": 13, "time1": "00:00.00", "qualified": "undecided", "finished": false},
 {"ranking": 1, "team_id": 36, "time1": "00:00.00", "qualified": "undecided", "finished": false}
+],
+
+"Round of 8": [
+{"ranking": 1, "team_id": 35, "time1": "00:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "00:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "00:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "00:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "00:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "00:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "00:00.00", "qualified": "undecided", "finished": false}
+],
+
+"Semi Finals": [
+{"ranking": 1, "team_id": 35, "time1": "0 stars", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "0 stars", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "0 stars", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "0 stars", "qualified": "undecided", "finished": false}
+],
+
+"Grand Final": [
+{"ranking": 1, "team_id": 35, "time1": "00:00.00", "qualified": "undecided", "finished": false},
+{"ranking": 1, "team_id": 35, "time1": "00:00.00", "qualified": "undecided", "finished": false}
 ]
     }
 }
